@@ -1,3 +1,3 @@
-# ls but worse
+# `ls` but worse
 
 for educational purposes only
